@@ -21,4 +21,3 @@ It is also fully hostable on **InfinityFree** or any static web hosting provider
 
 ---
 
-## 📁 Folder Structure
